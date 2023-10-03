@@ -1,0 +1,12 @@
+====================
+Third Party Licenses
+====================
+
+1. Attend and Excite: https://github.com/yuval-alaluf/Attend-and-Excite
+   License: MIT License
+   
+2. Diffusers: https://github.com/huggingface/diffusers
+   License: Apache License 2.0
+   
+3. Latent Diffusion: https://github.com/CompVis/latent-diffusion
+   License: MIT License
