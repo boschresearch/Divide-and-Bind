@@ -28,6 +28,18 @@ Stable Diffusion v1.5 model can be found [here](https://huggingface.co/runwayml/
  - [generate_images.ipynb](generate_images.ipynb) provides an example on how to generate images using Divide & Bind.
  -  [examples_generation.ipynb](examples_generation.ipynb) provides some prompts and seeds used in the paper. Example images are saved in [example_outputs](example_outputs).
 
+## Citation
+If you use this code please cite
+
+```
+@inproceedings{li2023divide,
+  title={Divide \& bind your attention for improved generative semantic nursing},
+  author={Li, Yumeng and Keuper, Margret and Zhang, Dan and Khoreva, Anna},
+  booktitle={34th British Machine Vision Conference 2023, {BMVC} 2023},
+  year={2023}
+}
+```
+
 
 ## License
 
