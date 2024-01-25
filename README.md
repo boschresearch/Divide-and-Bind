@@ -4,7 +4,7 @@
 :fire:  Official PyTorch implementation for paper 'Divide & Bind Your Attention for Improved Generative Semantic Nursing' (BMVC 2023 **Oral**)
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2210.10175-red)](https://arxiv.org/pdf/2307.10864.pdf)    [![Static Badge](https://img.shields.io/badge/Project%20Page-BMVC%20Oral-blue)](https://sites.google.com/view/divide-and-bind)
+[![arXiv](https://img.shields.io/badge/arXiv-2307.10864-red)](https://arxiv.org/pdf/2307.10864.pdf)    [![Static Badge](https://img.shields.io/badge/Project%20Page-BMVC%20Oral-blue)](https://sites.google.com/view/divide-and-bind)
 
 **:fire: Updates:** We update our [Divide & Bind pipeline](divide_and_bind/pipeline_divide_and_bind_latest.py), which is now compatible with [Diffusers](https://github.com/huggingface/diffusers) 0.21.4!
 
